@@ -1,0 +1,152 @@
+* {
+	vertical-align: baseline;
+	font-weight: inherit;
+	font-family: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0px;
+	/*outline:1px solid white*/
+    }
+
+#wrapper{
+    width: 900px;
+    background-color: rgb(31, 48, 55);
+    margin: auto;}
+    #header{
+        margin-bottom: -2px;}
+        #title{
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            font-size: 25px ; 
+            font-weight: 900;
+            color: white;
+            padding: 10px;}
+            #logo-img{
+                width: 35px; 
+                outline: 1px solid white;}
+        #navs{
+            display: flex;
+            justify-content: flex-start;
+            background-image: linear-gradient(rgb(54, 76, 87), rgba(41, 58, 66, 0.596),rgb(54, 76, 87));
+            list-style-type: none;
+            padding: 10px 25px;}
+            .nav-class{
+                font-size: medium;
+                font-weight: 300;
+                text-decoration: none;
+                color: white;
+                border-right:solid 1px rgb(65, 82, 89);
+                padding: 10px 25px;}
+    #top-break{
+        width: 900px;
+        height: 20px;
+        background-image: linear-gradient(to right, rgb(77, 104, 97) ,rgb(40, 52,52));}
+    #info{width: 170px;
+        padding: 20px;}
+        #center{
+            display: flex;}
+        h4{
+            color: white;
+            font-size: 13px;}
+        #search-bar{
+            display: flex;
+            outline: 1px solid white;
+            width: 120px;}
+            #search{
+                width: 120px;}
+            #search-icon{
+                height: 18px;
+                margin-left: 5px;
+                outline: 1px solid white;}
+        .n1s{
+            width: 160px;
+            color: white;
+            padding: 5px;
+            margin-top: 20px;
+            margin-bottom: 20px;
+            outline: 1px solid rgb(65, 82, 89);}
+            .nh2{
+                width: 160px;
+                font-size: 16px;
+                font-weight: 900;
+                padding: 5px;
+                margin: -5px;
+                margin-bottom: 10px;
+                background-image: linear-gradient(rgb(54, 76, 87), rgba(41, 58, 66, 0.596),rgb(54, 76, 87));
+                outline: 1px solid rgb(65, 82, 89);}
+                .nhp{
+                    color: white; 
+                    font-size: 13px;
+                    margin-bottom: 10px;}
+                    .sample{
+                        text-decoration: none;
+                        color: yellow;
+                        font-size: 13px;}
+        #scroll{
+            font-size: 13px;
+            height:150px;
+            color: white;
+            overflow: auto;
+            outline: 1px solid rgb(65, 82, 89);
+            background-image: linear-gradient(to bottom, rgb(40, 52,52) ,rgba(77, 104, 97, 0.521));}
+        #img2{
+            margin-top:20px;
+            outline: 1px solid rgb(65, 82, 89);}
+    #main{
+        display: flex;
+        width: 680px;
+        background-image: linear-gradient(to bottom, rgb(40, 52,52) ,rgba(77, 104, 97, 0.521));
+        margin-right: 20px ;
+        margin-top: 5px;
+        padding: 25px;
+        padding-top: 50px;
+        border-radius: 40px;}
+                .m-h2{
+                    color: white;
+                    font-size:25px ;}
+                .m-p{
+                    color: white;
+                    font-size: 15px;}
+                    .maina{
+                        text-decoration: none;
+                        color: yellow;
+                        font-size: 13px;}
+            .mid-breaks{
+                width: auto;
+                height: 5px;
+                outline: 1px solid rgb(56, 69, 75);
+                margin-top:30px ;
+                margin-bottom: 30px;}
+            .n2{
+                width: 160px;
+                color: white;
+                padding: 5px;
+                margin-top: 20px;
+                margin-bottom: 20px;
+                outline: 1px solid rgb(65, 82, 89);}
+            #sbr-img{
+                width: 170px;
+                outline: 1px solid white;}
+
+    
+                        
+                        
+            
+            
+            
+                
+        
+                
+
+
+
+        
+
+
+    
+
+
